@@ -1,0 +1,30 @@
+{
+    "inviteconfig": {
+        "embeddescription": "✉️ Server configuration {guildname}\n`📥` Sets the welcome lounge\n`📪` Sets the welcome message\n`📤` Sets the goodbye lounge\n`📭` Sets the goodbye message\n\n> [Current settings](https://google.com):\n`📥` Welcome Lounge:\n {welcomelounge}\n`📪` Welcome message:\n {welcomemsg}\n`📤` Goodbye lounge:\n {goodbyelounge}\n`📭` Goodbye message:\n {goodbyemsg}",
+        "welcomelounge": "Welcome lounge",
+        "welcomemsg": "Welcome message",
+        "goodbyelounge": "Goodbye lounge",
+        "goodbyemsg": "Goodbye message",
+        "askwelcomelounge": "📥 Please mention or give me the ID of the welcome lounge.",
+        "askwelcomemsg": "📭 Please enter the welcome message:",
+        "askgoodbyelounge": "📥 Please mention or give me the ID of the goodbye lounge.",
+        "askgoodbyemsg": "📭 Please enter the goodbye message:",
+        "undefined": "None",
+        "requestedby": "Requested by"
+    },
+    "invites": {
+        "valid": "Ordinary",
+        "left": "Leaves",
+        "generatedIn": "Generated in"
+    },
+    "invitesadd": {
+        "invaliduser": "Invalid user",
+        "invalidnumber": "Please specify a valid number",
+        "success": "Successfully added **{number}** invitations to {member} !"
+    },
+    "removeinvites": {
+        "already0": "This member already has 0 invitations.",
+        "numberinferior": "The number indicated is bigger than the number of bonus invitations.",
+        "success": "Successfully removed **{number}** invitations from {member}!"
+    }
+}

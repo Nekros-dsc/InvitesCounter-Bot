@@ -1,0 +1,30 @@
+{
+    "inviteconfig": {
+        "embeddescription": "✉️ **Configuration du serveur {guildname}**\n`📥` Définir le salon de bienvenue\n`📪` Définir le message de bienvenue\n`📤` Définir le salon d'au revoir\n`📭` Définir le message d'aurevoir\n\n> [Paramètres Actuels](https://discord.gg/tonserveur):\n`📥` Salon de bienvenue:\n {welcomelounge}\n`📪` Message de bienvenue:\n {welcomemsg}\n`📤` Salon d'au revoir:\n {goodbyelounge}\n`📭` Message d'au revoir:\n {goodbyemsg}",
+        "welcomelounge": "Salon de bienvenue",
+        "welcomemsg": "Message de bienvenue",
+        "goodbyelounge": "Salon d'au revoir",
+        "goodbyemsg": "Message d'au revoir",
+        "askwelcomelounge": "📥 Veuillez mentionner ou m'envoyer l'ID du salon de bienvenue.",
+        "askwelcomemsg": "📭 Veuillez entrer le message de bienvenue",
+        "askgoodbyelounge": "📥 Veuillez mentionner ou m'envoyer l'ID du salon d'au revoir",
+        "askgoodbyemsg": "📭 Veuillez entrer le message d'au revoir",
+        "undefined": "Aucun",
+        "requestedby": "Demandé par"
+    },
+    "invites": {
+        "valid": "Ordinaires",
+        "left": "Partis",
+        "generatedIn": "Généré en"
+    },
+    "invitesadd": {
+        "invaliduser": "Utilisateur invalide",
+        "invalidnumber": "Veuillez spécifier un nombre valide",
+        "success": "**{number}** invitations ont bien été ajoutées à {member} !"
+    },
+    "removeinvites": {
+        "already0": "Ce membre a déjà 0 invitations",
+        "numberinferior": "Le nombre indiqué est plus grand que le nombre d'invitations bonus",
+        "success": "**{number}** invitations ont bien été enlevées à {member} !"
+    }
+}

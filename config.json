@@ -1,0 +1,5 @@
+{
+    "mongoUrl": "mongoUrl",
+    "clientToken": "Put-Token-Here",
+    "clientPrefix": "Prefix"
+}
